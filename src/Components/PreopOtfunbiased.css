@@ -1,0 +1,130 @@
+.rowLabels{
+    background-color: rgb(168, 209, 209);
+    position:sticky;
+    width:300px;
+    z-index: 0;
+    margin-top: 70px;
+    left:0;
+}
+.colLabels
+{
+    background-color: rgb(168, 209, 209);
+    width:max-content;
+    margin-left: 180px;
+    margin-bottom: -10px;
+    position: sticky;
+    height: auto;
+    top:0;
+    z-index: 3;
+    text-orientation: mixed;
+}
+.rows{
+    display: block;
+    font-size: 10px;
+    background-color:rgb(253, 138, 138);
+    margin-bottom: 20px;
+    color:rgb(3, 69, 3);
+    border: 1px solid green;
+    width:auto;
+    height:15px;
+    overflow: hidden;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.rows:hover
+{
+  width: max-content;
+  background-color: rgb(216, 63, 49);
+  color: azure;
+}
+
+.cols
+{
+    display: inline;
+    font-size: 10px;
+    color:rgb(3, 69, 3);
+    border: 1px solid green;
+    width:15px;
+    height:150px;
+    overflow: hidden;
+    margin-left:20px;
+    margin-top: 65px;
+    background-color:rgb(253, 138, 138);
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cols:hover
+{
+  height: max-content;
+  background-color: rgb(216, 63, 49);
+  color: azure;
+}
+.preopdata
+{
+    background-color: rgb(50, 122, 50);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    color:bisque;
+    position:fixed;
+    width:165px;
+    margin-top: 15px;
+    border-top: 2px solid wheat;
+    border-right: 2px solid wheat;
+    border: 1px solid wheat;
+    z-index:2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.otfunbiased
+{
+    background-color: rgb(50, 122, 50);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    color:bisque;
+    position:fixed;
+    width:70px;
+    height:170px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    margin-left:-85px;
+    margin-top:55px;
+    font-size: 19px;
+    border: 2px solid wheat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.gapFill
+{
+    background-color:rgb(186, 155, 96);
+    position:fixed;
+    margin-bottom:-245px;
+    height:225px;
+    width:95px;
+    z-index:4;
+}
+.flex
+{
+    display: flex;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(43,35px);
+    grid-template-rows: repeat(70,35px);
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 15px;
+    justify-content: center;
+  }
+
+.grid-item 
+{
+    background-color: rgb(183, 219, 128) ;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 2px;
+    text-align: center;
+}
+.grid-item:hover{
+   background-color: cyan;
+}
+
+.downloadButton
+{
+    margin-left: 150px;
+    margin-top: 20px;
+}

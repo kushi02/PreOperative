@@ -1,0 +1,13 @@
+.download
+{
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 500px;
+    background-color: rgb(131, 197, 131);
+    font-weight: bold;
+    color:rgb(139, 28, 50);
+    border: solid 2px black;
+    border-radius: 9px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

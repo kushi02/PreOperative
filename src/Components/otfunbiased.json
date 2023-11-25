@@ -1,0 +1,174 @@
+ [
+    {
+      "Parameters_Subparameter_Criteria": "Creation of ports_1st port_Difficulty in creation of Ports",
+      "Column": 1
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of ports_2nd port_Difficulty in creation of Ports",
+      "Column": 2
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of ports_3rd  port_Difficulty in creation of Ports",
+      "Column": 3
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of ports_4th port_Difficulty in creation of Ports",
+      "Column": 4
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of ports_Reason for difficulty_Highly distended GB causing difficulty in this step",
+      "Column": 5
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of ports_Reason for difficulty_Colon dilatation causing difficulty in this step",
+      "Column": 6
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesion present_Adhesions \r\n_Calot’s clearly visible  ",
+      "Column": 7
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesion present_Types of adhesions present_Omental ",
+      "Column": 8
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesion present_Types of adhesions present_Deodenum  ",
+      "Column": 9
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesion present_Types of adhesions present_Stomach  ",
+      "Column": 10
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Adhesiolysis_How difficult to remove adhesion",
+      "Column": 11
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Method used _Monopolar",
+      "Column": 12
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Method used _Bi-polar",
+      "Column": 13
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Method used _Gauze dissection",
+      "Column": 14
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Method used _Hydro dissection",
+      "Column": 15
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Method used _Harmonic/ Ligasure",
+      "Column": 16
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Any complication during adhesiolysis (Action taken)_Bleeding",
+      "Column": 17
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_Difficulty in grasping_ grasping",
+      "Column": 18
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_Difficulty in Calot's Dissection_Difficulty in Calot's Dissection",
+      "Column": 19
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_What difficulty?_Oedema  present causing difficulty",
+      "Column": 20
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_What difficulty?_GB Fraiable present causing difficulty",
+      "Column": 21
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_Time for dissection of Calot’s Triangle (minutes)_Have to ask sir and how to accomate surgeons expertise into it",
+      "Column": 22
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_Bleeding +/-_Have to ask sir, no of time and how much did it bled",
+      "Column": 23
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_Bile leak +/-_Have to ask sir, no of time and how much did it bled",
+      "Column": 24
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_Stone spillage_Have to ask sir, no of stones and type of stones",
+      "Column": 25
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_Irrigation ( +/-)_Done or not",
+      "Column": 26
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_Visulization and ligation of Cystic Artery and Duct_Idividually distinguished or not",
+      "Column": 27
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot’s Dissection_Visualization of CBD_CBD distinguished or not",
+      "Column": 28
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Clipping_Clipping_Difficulty level",
+      "Column": 29
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Clipping_Clip used_300 LC",
+      "Column": 30
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Clipping_Clip used_400 LC",
+      "Column": 31
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cutting Cytic Artery_Cutting Cytic Artery_Difficulty level",
+      "Column": 32
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cutting Cytic Duct_Cutting Cytic Duct_Difficulty level",
+      "Column": 33
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from liver bed_Difficulty in removing GB from liver bed_Difficulty",
+      "Column": 34
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from liver bed_Bleeding from liver bed +/-_Have to ask sir, no of time and how much did it bled",
+      "Column": 35
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from liver bed_Bile spillage +/-_Have to ask sir, no of time and how much did it bled",
+      "Column": 36
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from liver bed_Pus spillage +/-_",
+      "Column": 37
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from liver bed_Stone spillage +/-_Have to ask sir, no of stones and type of stones",
+      "Column": 38
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Gall bladder extraction_Extraction of Gallbladder_Difficulty",
+      "Column": 39
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Gall bladder extraction_Process type_extraction by conventional instruments",
+      "Column": 40
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Gall bladder extraction_Process type_Dilatation of port & extraction by conventional instruments",
+      "Column": 41
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Gall bladder extraction_Process type_Endo-bag",
+      "Column": 42
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Gall bladder extraction_Any complication during extraction._Stones Spillage",
+      "Column": 43
+    }
+  ]

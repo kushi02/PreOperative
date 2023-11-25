@@ -1,0 +1,442 @@
+ [
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 1_Obesity_Obesity",
+      "Column": 1
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 1_Umbilicus deep_Umbilicus deep",
+      "Column": 2
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 1_Umbilicus Shape_Umbilicus Shape",
+      "Column": 3
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 1_Scarred Umbilicus_Scarred Umbilicus",
+      "Column": 4
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 1_Port Bleeding_Port Bleeding",
+      "Column": 5
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 2_Peritoneal Adhesions_Peritoneal Adhesions",
+      "Column": 6
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 2_Hepatomegaly_Hepatomegaly",
+      "Column": 7
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 2_Thin patients with less subcutaneous fat causing mispositioning & low trocar grip_Thin patients with less subcutaneous fat causing mispositioning & low trocar grip",
+      "Column": 8
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 2_Bleeding (Vascular injury SEA)_Bleeding (Vascular injury SEA)",
+      "Column": 9
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 3_Thin patient with distended GB_Thin patient with distended GB",
+      "Column": 10
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 3_Hepatomegaly_Hepatomegaly",
+      "Column": 11
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 3_Distended Colon_Distended Colon",
+      "Column": 12
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 3_Over-hanging costal arch_Over-hanging costal arch",
+      "Column": 13
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 4_Hepatomegaly_Hepatomegaly",
+      "Column": 14
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 4_Distended Colon_Distended Colon",
+      "Column": 15
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Creation of Port 4_Over-hanging costal arch_Over-hanging costal arch",
+      "Column": 16
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_Impacted Stone_Impacted Stone",
+      "Column": 17
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_WES , GB completely filled with Stones_WES , GB completely filled with Stones",
+      "Column": 18
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the Gallbladder_Stones _Large stone causing difficulty in grasping so crushing the stone",
+      "Column": 19
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the Gallbladder_Stones _Impacted stone requiring additional maneuvers",
+      "Column": 20
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_Thick wall_Thick wall",
+      "Column": 21
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_Fibrosed GB_Fibrosed GB",
+      "Column": 22
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_Friable_Friable",
+      "Column": 23
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_Oedematous_Oedematous",
+      "Column": 24
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_Over Distened GB_Over Distened GB",
+      "Column": 25
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Grasping the GB_Contracted GB_Contracted GB",
+      "Column": 26
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Omental Adhesions_Omental Adhesions",
+      "Column": 27
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Greater Omental Adhesions_Greater Omental Adhesions",
+      "Column": 28
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Deudonal Adhesions_Deudonal Adhesions",
+      "Column": 29
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Adhesions to Stomach_Adhesions to Stomach",
+      "Column": 30
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Peritoneal Adhesions_Peritoneal Adhesions",
+      "Column": 31
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Lump (adhesions with multiple structures)_Lump (adhesions with multiple structures)",
+      "Column": 32
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_GB plastered with Liver (No GB mesentery visible)_GB plastered with Liver (No GB mesentery visible)",
+      "Column": 33
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of  Perforations_GB perforation",
+      "Column": 34
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of  Perforations_Duodenum",
+      "Column": 35
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of  Perforations_Colon",
+      "Column": 36
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of  Perforations_CBD",
+      "Column": 37
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Mangement of Bleeding_Omental Artery",
+      "Column": 38
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Mangement of Bleeding_Cystic Artery",
+      "Column": 39
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Mangement of Bleeding_Liver Bed",
+      "Column": 40
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Mangement of Leaks_Bile",
+      "Column": 41
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Mangement of Leaks_Pus",
+      "Column": 42
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Mangement of Leaks_Sludge",
+      "Column": 43
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of Spills_Stones (Large)",
+      "Column": 44
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of Spills_Stones( small, multiple WES)",
+      "Column": 45
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of Spills_Pericholecystic fluid - Watery",
+      "Column": 46
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of Spills_Pericholecystic fluid - Pus filled",
+      "Column": 47
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Adhesiolysis_Management of Spills_Intestinal Contents",
+      "Column": 48
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _GB Properties_thick wall",
+      "Column": 49
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _GB Properties_GB fibrosed",
+      "Column": 50
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _GB Properties_inflamed / Over distended",
+      "Column": 51
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _GB Properties_contracted",
+      "Column": 52
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _GB Properties_friable",
+      "Column": 53
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _View_View obstructed Hepatomegaly",
+      "Column": 54
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Removal of Adhesions_Removal of Omental Adhesions",
+      "Column": 55
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Removal of Adhesions_Removal of Peritoneal Adhesions",
+      "Column": 56
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Removal of Adhesions_Removal of Deudonal Adhesion",
+      "Column": 57
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Removal of Adhesions_Removal of Stomach Adhesions",
+      "Column": 58
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Management of  Perforations_GB perforation",
+      "Column": 59
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Management of  Perforations_Duodenum",
+      "Column": 60
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Management of  Perforations_Colon",
+      "Column": 61
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Management of  Perforations_CBD",
+      "Column": 62
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Management of Bleeding_Omental Artery",
+      "Column": 63
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Management of Bleeding_Cystic Artery",
+      "Column": 64
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Management of Bleeding_ Liver Bed",
+      "Column": 65
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Mangement of Leaks_Bile",
+      "Column": 66
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Mangement of Leaks_Pus",
+      "Column": 67
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Calot's Dissection _Mangement of Leaks_ Sludge",
+      "Column": 68
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Ligation method_Individual ligation",
+      "Column": 69
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Ligation method_Mass ligation",
+      "Column": 70
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CA_Short CA ",
+      "Column": 71
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CA_CA obscured by LN",
+      "Column": 72
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CA_Anomalous Anatomy",
+      "Column": 73
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CA_Avulsions",
+      "Column": 74
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CA_Slipped Sture",
+      "Column": 75
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CA_Loose Clips",
+      "Column": 76
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CA_Improperly placed clips",
+      "Column": 77
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CD_Anomalous Anatomy",
+      "Column": 78
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CD_Avulsions",
+      "Column": 79
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CD_Slipped Sture",
+      "Column": 80
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CD_Loose Clips",
+      "Column": 81
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Clipping CD_Improperly placed clips",
+      "Column": 82
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Cutting CA_Injury to CBD",
+      "Column": 83
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Cutting CA_Highly distended GB",
+      "Column": 84
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Cutting CA_Colon Dilatiation",
+      "Column": 85
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Cutting CD_Injury to CBD",
+      "Column": 86
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Cutting CD_Highly distended GB",
+      "Column": 87
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Cliping and Cutting_Cutting CD_Colon Dilatiation",
+      "Column": 88
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Pathophysiology_GB intimately adhered to Liver Bed",
+      "Column": 89
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Pathophysiology_Over Distended",
+      "Column": 90
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Pathophysiology_oedematous",
+      "Column": 91
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Pathophysiology_thick-walled GB",
+      "Column": 92
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Pathophysiology_GB perforation",
+      "Column": 93
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Pathophysiology_Adhesions to Liver Bed - Tough",
+      "Column": 94
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Pathophysiology_Adhesions to Liver Bed - Easy",
+      "Column": 95
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Operative Method_Blunt Dissection",
+      "Column": 96
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Operative Method_Hydro Dissection",
+      "Column": 97
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Operative Difficulty_Bleeding from Liver Bed ",
+      "Column": 98
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Operative Difficulty_Bile Spill",
+      "Column": 99
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Operative Difficulty_Sludge Spill",
+      "Column": 100
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Operative Difficulty_Stone Spill",
+      "Column": 101
+    },
+    {
+      "Parameters_Subparameter_Criteria": "Removal of GB from Liver Bed_Operative Difficulty_GB Perforated",
+      "Column": 102
+    },
+    {
+      "Parameters_Subparameter_Criteria": "GB Extraction_Pathophysiology_Over Distended GB",
+      "Column": 103
+    },
+    {
+      "Parameters_Subparameter_Criteria": "GB Extraction_Pathophysiology_Thick-Walled GB",
+      "Column": 104
+    },
+    {
+      "Parameters_Subparameter_Criteria": "GB Extraction_Pathophysiology_Large Stone",
+      "Column": 105
+    },
+    {
+      "Parameters_Subparameter_Criteria": "GB Extraction_Pathophysiology_Obese Patient",
+      "Column": 106
+    },
+    {
+      "Parameters_Subparameter_Criteria": "GB Extraction_Operative Difficulty_Bile Spill",
+      "Column": 107
+    },
+    {
+      "Parameters_Subparameter_Criteria": "GB Extraction_Operative Difficulty_Sludge Spill",
+      "Column": 108
+    },
+    {
+      "Parameters_Subparameter_Criteria": "GB Extraction_Operative Difficulty_Stone Spill",
+      "Column": 109
+    },
+    {
+      "Parameters_Subparameter_Criteria": "GB Extraction_Operative Difficulty_Rupture of GB during Extraction",
+      "Column": 110
+    }
+  ]

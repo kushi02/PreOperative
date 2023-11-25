@@ -1,0 +1,283 @@
+[
+    {
+         "Parameter_Sub parameter_ Citeria": "Pericholecystic fluid_Presence_Presence",
+         "Row": 1
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Pericholecystic fluid_Type _Type I",
+         "Row": 2
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Pericholecystic fluid_Type _Type II",
+         "Row": 3
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Gallbladder distended_Length_Length >10cm",
+         "Row": 4
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Gallbladder distended_Width_Width > 4cm",
+         "Row": 5
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Gallbladder distended_Height_Height > 4cm",
+         "Row": 6
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Gallbladder distended_Volume_Volume > 50cm^3",
+         "Row": 7
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Gallbladder distended_Tensile GB fundus_GB fundus touching abdominal wall",
+         "Row": 8
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Gallbladder distended_GB over distended given age_Radiologist experience",
+         "Row": 9
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "GB contracted_Contraction_Radiologist experience",
+         "Row": 10
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Growth/Mass _Presence_Presence",
+         "Row": 11
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Growth/Mass _Flow_Flow in color Doppler",
+         "Row": 12
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Stones_Presence_Presence",
+         "Row": 13
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Stones_Stones edges visible_Presence",
+         "Row": 14
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Stones_Nature of stones_Mobility",
+         "Row": 15
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Stones_Multiple stones_No of stones>3",
+         "Row": 16
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Stones_Presence of very large stones_Size of the largest > 2cm",
+         "Row": 17
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Stones_Twinkling artefact_Flow on Color Doppler",
+         "Row": 18
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Stones_Acoutic Shadow_shadow of stones ",
+         "Row": 19
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Wall thickeness_Wall thickness_thickness of wall in long axis view at point of max thickness: ",
+         "Row": 20
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Wall thickeness_Type of thickening_geometry and symmetry",
+         "Row": 21
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "GB wall edema_Presence_Presence",
+         "Row": 22
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Gangrene_Presence_Presence",
+         "Row": 23
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Bubbles in GB wall_Presence_Presence",
+         "Row": 24
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Wall perforation_Presence_Presence",
+         "Row": 25
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Flow(CD)_Flow_Flow on Color Doppler",
+         "Row": 26
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Polyp_Presence_Presence",
+         "Row": 27
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Polyp_Size_Size>10mm",
+         "Row": 28
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Polyp_Presence of multiple Polyps_>3",
+         "Row": 29
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Polyp_Flow_Flow on Color Doppler",
+         "Row": 30
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Polyp_Hypoechoic foci within polyp_Hypoechoic foci within polyp",
+         "Row": 31
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Echogenic fluid_Presence_Presence",
+         "Row": 32
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Echogenic fluid_Echogenic Fluid quantity_Fills > 50 % of GB ",
+         "Row": 33
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Echogenic fluid_Echogenicty of fluid_wrt Liver",
+         "Row": 34
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Echogenic fluid_Type_Appears as Tumefactive Sludge",
+         "Row": 35
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Echogenic fluid_Type_Appears as Layered Sludge",
+         "Row": 36
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Echogenic fluid_Flow (CD)_Flow on Color Doppler",
+         "Row": 37
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "CBD dilated_Presence_CBD diameter > 6mm",
+         "Row": 38
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "CBD dilated_Grade of dilation_CBD diamter >10 mm",
+         "Row": 39
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "stones in CBD_Presence_Presence",
+         "Row": 40
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Sludge in CBD_Presence_Presence",
+         "Row": 41
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Liver size > 15.5cm_Liver size_Liver size > 15.5cm",
+         "Row": 42
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Fatty liver_Presence_Presence",
+         "Row": 43
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Dilated IHBT_Presence_Presence",
+         "Row": 44
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Age_Age_Age > 65",
+         "Row": 45
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Sex_Sex_Sex",
+         "Row": 46
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Fever_Fever_Fever",
+         "Row": 47
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Vomiting_Vomiting_Vomiting",
+         "Row": 48
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Hitory of Hospitalization_acute attack/gall stone pancreatitis_acute attack/gall stone pancreatitis",
+         "Row": 49
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Co-morbidity_DM_DM",
+         "Row": 50
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Co-morbidity_HTN_HTN",
+         "Row": 51
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Co-morbidity_COPD_COPD",
+         "Row": 52
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Co-morbidity_Hypothyroid_Hypothryoid",
+         "Row": 53
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Co-morbidity_Others_Others",
+         "Row": 54
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Previous Abdominal _Previous Abdominal _Previous Abdominal ",
+         "Row": 55
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Temperature_Temperature_Normal Range",
+         "Row": 56
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Pulse_Pulse_Normal Range",
+         "Row": 57
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "BMI_BMI_Ranges for different categories",
+         "Row": 58
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Positive Murphy’s sign:_Positive Murphy’s sign:_Presence",
+         "Row": 59
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Palpable GB : _Palpable GB : _Presence",
+         "Row": 60
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "CRP _CRP _Within Normal Range",
+         "Row": 61
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "TLC /WBC _TLC _Within Normal Range",
+         "Row": 62
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "Sugar (R)  _Sugar (R)  _Within Normal Range",
+         "Row": 63
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "LFT_Total Bilirubin_Within Normal Range",
+         "Row": 64
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "LFT_Conjugated Direct Bilirubin (D)_Within Normal Range",
+         "Row": 65
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "LFT_Unconjugated Indirect Bilirubin  (I)_Within Normal Range",
+         "Row": 66
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "LFT_AST _Within Normal Range",
+         "Row": 67
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "LFT_ALT_Males:< 42 IU/L,Females:< 32 IU/L",
+         "Row": 68
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "LFT_ALP _Within Normal Range",
+         "Row": 69
+       },
+       {
+         "Parameter_Sub parameter_ Citeria": "LFT_Albumin_Within Normal Range",
+         "Row": 70
+       }
+ ]
+   
