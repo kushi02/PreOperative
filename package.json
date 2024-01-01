@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "home": "https://kushi02.github.io/PreOperative",
+  "homepage": "https://kushi02.github.io/PreOperative",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -14,6 +14,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "set PORT=3456 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
