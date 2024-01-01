@@ -37,9 +37,8 @@ export const PreopOtfporunbiased = () => {
              preop.map((preop,i)=>( 
               <p className="rows2">{preop['Parameter_Sub parameter_ Citeria']}</p>
       ))
-          }
+    }
         </div>
-        
     <div className='grid-container2'>
     {buttons70_110.map((data, i) => (
     <div className='grid-item2' key={i}> 

@@ -23,7 +23,6 @@ export const PreopOtfunbiased = () => {
    {
     otfunbiased.map((otfunbiased,i)=>(
       <div className="cols">{otfunbiased.Parameters_Subparameter_Criteria}</div>
-     
     )
     )
    }

@@ -3,7 +3,10 @@ import './ButtonStyles.css'
 
 export var arr2=new Array(7700).fill(0);
 export const ButtonClick70x100 = ({ id,active,toggleActive  }) => {
-    const handleClick = () => {
+  const [hoveredRow, setHoveredRow] = React.useState(null);
+const [hoveredColumn, setHoveredColumn] = React.useState(null);
+  
+  const handleClick = () => {
         toggleActive();
         if(active)
         {
